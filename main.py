@@ -97,9 +97,8 @@ def main():
 
   #Xラベルを45度傾ける
   ax1.tick_params(axis='x', labelrotation=45)
-  #ax1.title('BTC')
-  #ax1.legend()
-  #ax2.legend()
+  
+  #表示
   plt.show()
 
   #保存
